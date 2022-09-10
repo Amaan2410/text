@@ -7,7 +7,7 @@ export default function Info() {
   
   return (
     
-    <div className='container-fluid pt-3 '>
+    <div className='container-fluid pt-3 '> <br/> <br/>
       
     <div className="container text-center">
   <div className="row">
@@ -20,7 +20,7 @@ export default function Info() {
             // e.g. return fetch("https://test.com"), will be awaited
             return new Promise((resolve) => setTimeout(resolve, 3000));
           },
-          "Welcome to my website...",
+          "Welcome to my Portfolio...",
         ]}
         speed={10}
         wrapper="div"

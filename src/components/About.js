@@ -14,8 +14,8 @@ export default function About(){
             </section>
 
             <section>
-            {/* <div><h1>Academic Qualifications</h1></div> */}
-            <img src={gif1} alt="gif" width='40%' height='30%'  />
+           
+            <img src={gif1} alt="gif" width='350vw' height='45%'  />
             <br /><br /><br /><br />
             <table class="table">
   <thead>
@@ -28,19 +28,19 @@ export default function About(){
   </thead>
   <tbody>
     <tr>
-      <td scope="row">B. Tech(CSE)</td>
+      <td >B. Tech(CSE)</td>
       <td>Galgotias University</td>
       <td>2022</td>
       <td>82%</td>
     </tr>
     <tr>
-      <td scope="row">12th Class</td>
+      <td>12th Class</td>
       <td>St. Francis School</td>
       <td>2018</td>
       <td>75%</td>
     </tr>
     <tr>
-      <td scope="row">10th Class</td>
+      <td>10th Class</td>
       <td >St. Francis School</td>
       <td>2016</td>
       <td>10.0</td>

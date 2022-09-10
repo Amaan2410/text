@@ -17,8 +17,8 @@ export default function Project() {
           OpenCV for facial recognition.
         </p>
       </section>
-      <div className="g2">
-      <img src={gif2} alt="gif" width='45%' height='45%'/>
+      <div className="container-fluid">
+      <img src={gif2} alt="gif" width='400vw' height='45%'/>
       </div>
     </div>
   );

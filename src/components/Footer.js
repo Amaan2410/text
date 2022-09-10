@@ -12,7 +12,7 @@ import {
 
 export default function App() {
   return (
-    <div className='footer1'>
+    <div className='container-fluid '>
     <MDBFooter className='bg-dark text-center text-white'>
       <MDBContainer className='p-4 pb-0'>
         <section className='mb-4'>
@@ -61,7 +61,7 @@ export default function App() {
 
       <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' ,color: "#00FFF5" }}>
         © Created by :-
-        <a className='text-white' href='https://mdbootstrap.com/'>
+        <a className='text-white' href=' '>
          AMAAN ANSARI
         </a>
       </div>
