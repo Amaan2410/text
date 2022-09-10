@@ -54,7 +54,7 @@
     font-size: x-large;
     font-style: oblique;
     font-family: cursive;
-    color: blueviolet;
+    color: #9A0680;
 }
 
 .aboutsection {
@@ -64,6 +64,7 @@
   font-variant: petite-caps;
   font-weight: bold;
   float: right;
+  color: #F582A7;
 }
 
 .card-text {
@@ -85,10 +86,9 @@
   float: left;
 }
 
-*{
-  background-color: rgb(0, 0, 0);
-  color: rgb(9, 159, 19);
-} 
+/* body {
+    background-color: black;
+}  */
 
 .c{
   margin-left: 20%;
@@ -114,3 +114,38 @@ i.fab{
   background-color: initial;
 }
 
+
+*{
+  background-color: black;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  color: #F10086;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  color: deeppink;
+}
+
+nav.navbar{
+  padding: 0%;
+}
+
+.table th{
+  color: #FF6363;
+}
+
+.table td{
+  color: #FFBD69;
+}
+
+.card-title{
+  color: #4ECCA3;
+}
+
+.card-text{
+  color: #616F39;
+}

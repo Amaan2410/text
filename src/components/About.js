@@ -28,19 +28,19 @@ export default function About(){
   </thead>
   <tbody>
     <tr>
-      <th scope="row">B. Tech(CSE)</th>
+      <td scope="row">B. Tech(CSE)</td>
       <td>Galgotias University</td>
       <td>2022</td>
       <td>82%</td>
     </tr>
     <tr>
-      <th scope="row">12th Class</th>
+      <td scope="row">12th Class</td>
       <td>St. Francis School</td>
       <td>2018</td>
       <td>75%</td>
     </tr>
     <tr>
-      <th scope="row">10th Class</th>
+      <td scope="row">10th Class</td>
       <td >St. Francis School</td>
       <td>2016</td>
       <td>10.0</td>

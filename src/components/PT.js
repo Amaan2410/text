@@ -7,7 +7,7 @@ export default function PT() {
     return (
 
         <div className="container"><br /><br />
-            <h1>Profession Training</h1> <br />
+            <center><h1 style={{color: "#A7D129"}}>Profession Training</h1></center> <br />
             <div className="card-group">
                 <div className="card">
                     <img src={logo1} className="card-img-top" alt="logo" height='160px' width= '80%' />

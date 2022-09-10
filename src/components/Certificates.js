@@ -13,7 +13,7 @@ export default function Certificates(){
     return(
       <>
       <Navbar/>
-      <h1><center> Certifications</center></h1>
+      <h1 style={{color: "#A7D129"}}><center> Certifications</center></h1>
     
       <div className="c" width='10%'>
      
@@ -45,9 +45,9 @@ export default function Certificates(){
     <span className="visually-hidden">Next</span>
   </button>
 </div>
-</div>
+</div><br /> <br />
 <div className="container container-fluid">
-      <section>
+      <section style={{color: "#9153F4"}}>
         There are many certifications which I have achieved in various other technical domains.
         Some of them are of LinkedIn certificates and some from Udemy as well in the field of - 
         <ul>
