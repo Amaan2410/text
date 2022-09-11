@@ -37,8 +37,7 @@
   }
 }
 
-
-.nav{
+.nav {
   background-color: #46de69;
 }
 
@@ -48,13 +47,13 @@
   width: 70%;
 }
 
-.c1{
-    margin-top: 5%;
-    font-weight: 600;
-    font-size: x-large;
-    font-style: oblique;
-    font-family: cursive;
-    color: #9A0680;
+.c1 {
+  margin-top: 5%;
+  font-weight: 600;
+  font-size: x-large;
+  font-style: oblique;
+  font-family: cursive;
+  color: #9a0680;
 }
 
 .aboutsection {
@@ -64,7 +63,7 @@
   font-variant: petite-caps;
   font-weight: bold;
   float: right;
-  color: #F582A7;
+  color: #f582a7;
 }
 
 .card-text {
@@ -75,55 +74,50 @@
 }
 
 .card-title {
-  
   font-size: larger;
   font-weight: bolder;
   font-family: cursive;
   font-variant-caps: small-caps;
 }
 
-.pro{
+.pro {
   float: left;
 }
 
-
-
-.c{
+.c {
   margin-left: 20%;
   margin-right: 20%;
 }
 
-.footer{
+.footer {
   color: #46de69;
 }
 
-div.container.p-4.pb-0{
+div.container.p-4.pb-0 {
   background-color: azure;
 }
-section.mb-4{
+section.mb-4 {
   background-color: azure;
 }
 
-a.text-white{
+a.text-white {
   background-color: initial;
 }
 
-i.fab{
+i.fab {
   background-color: initial;
 }
 
-
-*{
+* {
   background-color: black;
 }
 
-
-a.navbar-brand{
+a.navbar-brand {
   background-color: mediumpurple;
-    font-size: x-large;
-    font-weight: bolder;
-    font-family: initial;
-    color: white; 
+  font-size: x-large;
+  font-weight: bolder;
+  font-family: initial;
+  color: white;
 }
 
 .offcanvas-header .btn-close {
@@ -134,7 +128,7 @@ a.navbar-brand{
   background-color: aquamarine;
 }
 
-nav.navbar{
+nav.navbar {
   padding: 0%;
 }
 
@@ -149,7 +143,8 @@ nav.navbar{
   background-color: dimgray;
 }
 
-.navbar>.container-fluid, .navbar>.container-xxl {
+.navbar > .container-fluid,
+.navbar > .container-xxl {
   display: flex;
   flex-wrap: inherit;
   align-items: center;
@@ -157,37 +152,30 @@ nav.navbar{
   background-color: mediumpurple;
 }
 
-
-
-
-
-.table th{
-  color: #FF6363;
+.table th {
+  color: #ff6363;
 }
 
-.table td{
-  color: #FFBD69;
+.table td {
+  color: #ffbd69;
 }
 
-.card-title{
-  color: #4ECCA3;
+.card-title {
+  color: #4ecca3;
 }
 
-.card-text{
-  color: #616F39;
+.card-text {
+  color: #616f39;
 }
 
-div.container-fluid{
+div.container-fluid {
   padding: 0%;
-  
 }
 
-
-#navbarSupportedContent{
+#navbarSupportedContent {
   background-color: mediumpurple;
-
 }
-a.nav-link{
+a.nav-link {
   background-color: mediumpurple;
-  color:aliceblue
+  color: aliceblue;
 }
