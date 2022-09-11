@@ -12,7 +12,7 @@ export default function Certificates(){
 
     return(
       <>
-      <Navbar/>
+      <Navbar/><br/> <br/>
       <h1 style={{color: "#A7D129"}}><center> Certifications</center></h1>
     
       <div className="c" width='10%'>
